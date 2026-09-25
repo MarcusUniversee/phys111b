@@ -1,7 +1,7 @@
 item,quantity,value,units
 1,rho at 300 K,0.7459 +/- 0.0102,Ohm m
 1,rho at 300 K,74.59 +/- 1.02,Ohm cm
-1,R_H at 300 K,+0.0904 +/- 0.0014,m^3/C
+1,R_H at 300 K,-0.0904 +/- 0.0014,m^3/C
 1,B where E_Hall = E_ohmic,8.245  (82446 G),T
 2,extrinsic/intrinsic transition,242,K
 2,crossover region,245 - 271,K
